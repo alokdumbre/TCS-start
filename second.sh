@@ -1,1 +1,1 @@
-mkdir abc
+sudo mkdir abc
